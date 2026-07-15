@@ -28,10 +28,6 @@ I also added Stripe payment (easier to setup than I expected)! So if you want to
 
 Two **free tries** to start, no account, no card: one custom-prompt look and one preset look, so you can try both sides of it for free. After that, unlimited looks are a one-time **$1.99 unlock** via Stripe Checkout. No subscription, ever. Stripe emails your receipt at checkout. Support: chenyinwilliam@gmail.com.
 
-### Dev mode 🔑
-
-Type the secret word **`harey`** anywhere on the page (or right into the prompt box) to flip on **dev mode**: unlimited generations on that device, no payment. It's a convenience for me and anyone I share the word with. The gate is client-side anyway (more on that below).
-
 ## Architecture
 
 ```
